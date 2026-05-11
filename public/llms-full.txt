@@ -2,13 +2,13 @@
 
 Travlesi Aluminum is a manufacturing and installation company based in Moshav Galia, specializing in a wide range of aluminum products including pergolas, fences, gates, awnings, windows, roller screens, zip screens, and winter balcony enclosures. The brand combines industrial craftsmanship with residential and commercial solutions, positioning itself as a full-service aluminum specialist with an on-site factory. The desired website aesthetic is clean and modern, reflecting precision and professionalism.
 
-Source: https://example.com
+Source: https://trabelsi-aluminum.zappy5.app
 
 ---
 
 ## חלונות ופרגולות שמשנים את הבית — טרבלסי אלומיניום
 
-URL: https://example.com
+URL: https://trabelsi-aluminum.zappy5.app
 Description: טרבלסי אלומיניום: מפעל אלומיניום במושב גליה המתמחה בחלונות, גדרות, פרגולות, שערים וסגירות מרפסת. איכות תעשייתית לבית ולעסק — צרו קשר עוד היום!
 
 חלונות ופרגולות שמשנים את הבית — טרבלסי אלומיניום
@@ -685,7 +685,7 @@ Description: טרבלסי אלומיניום: מפעל אלומיניום במו
 
 ## כל פתרונות האלומיניום במקום אחד — טרבלסי אלומיניום
 
-URL: https://example.com/services
+URL: https://trabelsi-aluminum.zappy5.app/services
 Description: מחלונות ופרגולות ועד גדרות, שערי אלומיניום, תריסים, מרקיזות וסגירות חורף — טרבלסי אלומיניום מציעה מגוון שלם של שירותי ייצור והתקנה מקצועיים. גלו את כל השירותים!
 
 כל פתרונות האלומיניום במקום אחד — טרבלסי אלומיניום
@@ -1406,7 +1406,7 @@ RAL
 
 ## המפעל שמאחורי הדיוק והמקצועיות — טרבלסי אלומיניום
 
-URL: https://example.com/about
+URL: https://trabelsi-aluminum.zappy5.app/about
 Description: היכירו את טרבלסי אלומיניום — חברה משפחתית עם מפעל עצמאי במושב גליה, המשלבת מלאכת יד תעשייתית עם חדשנות עיצובית לפרויקטים מגוונים בתחום חלונות וגדרות אלומיניום.
 
 המפעל שמאחורי הדיוק והמקצועיות — טרבלסי אלומיניום
@@ -1953,7 +1953,7 @@ Description: היכירו את טרבלסי אלומיניום — חברה מש
 
 ## קבלו הצעת מחיר לחלונות וגדרות — טרבלסי אלומיניום
 
-URL: https://example.com/contact
+URL: https://trabelsi-aluminum.zappy5.app/contact
 Description: רוצים פרגולת אלומיניום למרפסת, שערים, גדרות או חלונות חדשים? צרו קשר עם טרבלסי אלומיניום עוד היום ונשמח לתת הצעת מחיר מותאמת אישית לפרויקט שלכם.
 
 קבלו הצעת מחיר לחלונות וגדרות — טרבלסי אלומיניום
@@ -2495,7 +2495,7 @@ Description: רוצים פרגולת אלומיניום למרפסת, שערים
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://trabelsi-aluminum.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2762,7 +2762,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://trabelsi-aluminum.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -3038,7 +3038,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://trabelsi-aluminum.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

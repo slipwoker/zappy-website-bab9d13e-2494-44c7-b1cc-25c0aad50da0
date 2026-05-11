@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://trabelsi-aluminum.zappy5.app
 טרבלסי אלומיניום: מפעל אלומיניום במושב גליה המתמחה בחלונות, גדרות, פרגולות, שערים וסגירות מרפסת. איכות תעשייתית לבית ולעסק — צרו קשר עוד היום!
 
 ### שירותים
-https://example.com/services
+https://trabelsi-aluminum.zappy5.app/services
 מחלונות ופרגולות ועד גדרות, שערי אלומיניום, תריסים, מרקיזות וסגירות חורף — טרבלסי אלומיניום מציעה מגוון שלם של שירותי ייצור והתקנה מקצועיים. גלו את כל השירותים!
 
 ### אודות
-https://example.com/about
+https://trabelsi-aluminum.zappy5.app/about
 היכירו את טרבלסי אלומיניום — חברה משפחתית עם מפעל עצמאי במושב גליה, המשלבת מלאכת יד תעשייתית עם חדשנות עיצובית לפרויקטים מגוונים בתחום חלונות וגדרות אלומיניום.
 
 ### צור קשר
-https://example.com/contact
+https://trabelsi-aluminum.zappy5.app/contact
 רוצים פרגולת אלומיניום למרפסת, שערים, גדרות או חלונות חדשים? צרו קשר עם טרבלסי אלומיניום עוד היום ונשמח לתת הצעת מחיר מותאמת אישית לפרויקט שלכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://trabelsi-aluminum.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://trabelsi-aluminum.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://trabelsi-aluminum.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -46,8 +46,8 @@ Information about WCAG compliance and accessibility features.
 - Address: מושב גאליה, ישראל, 7958000, ישראל
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://trabelsi-aluminum.zappy5.app/contact
+- Endpoint: https://trabelsi-aluminum.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -90,6 +90,6 @@ Travlesi Aluminum is a manufacturing and installation company based in Moshav Ga
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://trabelsi-aluminum.zappy5.app/sitemap.xml
+- Robots: https://trabelsi-aluminum.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://trabelsi-aluminum.zappy5.app/llms-full.txt
