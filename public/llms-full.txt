@@ -633,11 +633,11 @@ Description: טרבלסי אלומיניום: מפעל אלומיניום במו
 ### צור קשר
 
 
-- [business_email]
+- office@trabelsi-aluminum.co.il
 
-- [business_phone]
+- 0526677538
 
-- [business_address]
+- מושב גאליה, ישראל, 7958000, ישראל
 
 
 
@@ -1354,11 +1354,11 @@ RAL
 ### צור קשר
 
 
-- [business_email]
+- office@trabelsi-aluminum.co.il
 
-- [business_phone]
+- 0526677538
 
-- [business_address]
+- מושב גאליה, ישראל, 7958000, ישראל
 
 
 
@@ -1522,7 +1522,7 @@ Description: היכירו את טרבלסי אלומיניום — חברה מש
 
 
 מפעל עצמאי
-מושב גאליה, ישראל
+מושב גאליה, ישראל, 7958000, ישראל
 
 
 
@@ -1901,11 +1901,11 @@ Description: היכירו את טרבלסי אלומיניום — חברה מש
 ### צור קשר
 
 
-- [business_email]
+- office@trabelsi-aluminum.co.il
 
-- [business_phone]
+- 0526677538
 
-- [business_address]
+- מושב גאליה, ישראל, 7958000, ישראל
 
 
 
@@ -2421,11 +2421,33 @@ Description: רוצים פרגולת אלומיניום למרפסת, שערים
 ### צור קשר
 
 
-- [business_email]
+- office@trabelsi-aluminum.co.il
 
-- [business_phone]
+- 0526677538
 
-- [business_address]
+- מושב גאליה, ישראל, 7958000, ישראל
+
+
+
+
+
+#### שעות פעילות
+
+
+- יום ראשון: 09:00 - 17:00
+
+- יום שני: 09:00 - 17:00
+
+- יום שלישי: 09:00 - 17:00
+
+- יום רביעי: 09:00 - 17:00
+
+- יום חמישי: 09:00 - 17:00
+
+- יום שישי: סגור
+
+- יום שבת: סגור
+
 
 
 
@@ -2628,11 +2650,11 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - חברה: טרבלסי אלומיניום
 
-- אימייל: [business_email]
+- אימייל: office@trabelsi-aluminum.co.il
 
-- טלפון: [business_phone]
+- טלפון: 0526677538
 
-- כתובת: [business_address]
+- כתובת: מושב גאליה, ישראל, 7958000, ישראל
 
 
 
@@ -2688,11 +2710,11 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 ### צור קשר
 
 
-- [business_email]
+- office@trabelsi-aluminum.co.il
 
-- [business_phone]
+- 0526677538
 
-- [business_address]
+- מושב גאליה, ישראל, 7958000, ישראל
 
 
 
@@ -2903,9 +2925,9 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - חברה: טרבלסי אלומיניום
 
-- אימייל: [business_email]
+- אימייל: office@trabelsi-aluminum.co.il
 
-- טלפון: [business_phone]
+- טלפון: 0526677538
 
 
 
@@ -2964,11 +2986,11 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 ### צור קשר
 
 
-- [business_email]
+- office@trabelsi-aluminum.co.il
 
-- [business_phone]
+- 0526677538
 
-- [business_address]
+- מושב גאליה, ישראל, 7958000, ישראל
 
 
 
@@ -3202,11 +3224,11 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - חברה: טרבלסי אלומיניום
 
-- אימייל: [business_email]
+- אימייל: office@trabelsi-aluminum.co.il
 
-- טלפון: [business_phone]
+- טלפון: 0526677538
 
-- כתובת: [business_address]
+- כתובת: מושב גאליה, ישראל, 7958000, ישראל
 
 
 
@@ -3259,11 +3281,11 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 ### צור קשר
 
 
-- [business_email]
+- office@trabelsi-aluminum.co.il
 
-- [business_phone]
+- 0526677538
 
-- [business_address]
+- מושב גאליה, ישראל, 7958000, ישראל
 
 
 
