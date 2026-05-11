@@ -43,7 +43,7 @@ Information about WCAG compliance and accessibility features.
 - Email: office@trabelsi-aluminum.co.il
 - Phone: 0526677538
 - Phone (tel): tel:0526677538
-- Address: מושב גאליה, ישראל, 7958000, ישראל
+- Address: אלון, מושב גאליה, ישראל, 7958000, ישראל
 
 ### Contact form
 - URL: https://example.com/contact
