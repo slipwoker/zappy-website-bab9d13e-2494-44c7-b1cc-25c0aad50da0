@@ -8542,6 +8542,51 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+.index-hero-section {
+  overflow-x: hidden;
+}
+
+@media (max-width: 768px) {
+.index-hero-section .index-hero-container {
+  padding: 100px 20px 80px !important;
+}
+
+.index-hero-section .index-hero-card {
+  padding: 24px 20px !important;
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+.index-hero-section .index-hero-h1 {
+  font-size: clamp(1.7rem, 7vw, 2.4rem) !important;
+  line-height: 1.25 !important;
+}
+
+.index-hero-section .index-hero-subtitle {
+  font-size: clamp(0.85rem, 3.5vw, 1rem) !important;
+  line-height: 1.6 !important;
+}
+
+.index-hero-section .index-hero-ctas {
+  flex-direction: column !important;
+  gap: 12px !important;
+  width: 100% !important;
+}
+
+.index-hero-section .index-hero-btn-primary, .index-hero-section .index-hero-btn-secondary {
+  width: 100% !important;
+  text-align: center !important;
+  justify-content: center !important;
+  padding: 14px 20px !important;
+  font-size: 1rem !important;
+  display: flex !important;
+}
+
+.index-hero-section .index-hero-label {
+  font-size: 0.75rem !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
