@@ -2708,8 +2708,10 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 @media (min-width: 769px) {
   .index-hero-section .index-hero-card {
-    width: 42%;
-  }
+  width: 42%;
+  max-width: 480px;
+  padding: 48px 40px 44px;
+}
 }
 /* ZAPPY_POSTGEN_GUARD_HERO_FONT_CAP:index-hero */
 .hero h1, .hero-section h1, [class*="hero-"] h1, [class~="hero"] h1, .hero .hero-title, .hero-title { font-size: min(var(--display-xl, 6rem), 6rem) !important; line-height: var(--leading-display, 1.05); }
